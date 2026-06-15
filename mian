@@ -1,0 +1,5 @@
+import cv2
+import face_recognition
+
+known_face_encodings = []
+known_face_names = []
